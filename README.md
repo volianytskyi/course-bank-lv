@@ -1,6 +1,5 @@
 # Ministra (Stalker Portal) Latvijas Banka Exchange Rates Parser
 
-###
 The provided method uses course.nbu module to show the Latvijas Banka exchange rates
 
 ### Intergation
